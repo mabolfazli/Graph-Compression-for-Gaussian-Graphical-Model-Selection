@@ -5,7 +5,7 @@ This code repo corresponds to [Gaussian Graphical Model Selection Using Graph Co
 The main files to run are **Experiments_Graph Compression.ipynb** for graph compression and **Experiments_Model Selection.ipynb** for model selection experiments.
 
 ## Datasets
-All datasets for graph compression can be found under **Datasets/**  
+All datasets for graph compression can be found under **Datasets/..**  
 
 ## Environments
 This project is implemented based on Python 3.8.
